@@ -49,4 +49,21 @@ A beginner-friendly **Three.js** project showcasing interactive 3D rendering on 
 ---
 
 ## 📂 Project Structure
+Threejs_Project_V1/
+│
+├── public/ # Static files & favicon
+├── src/
+│ ├── components/ # React Components (Canvas, Tabs, etc.)
+│ ├── store/ # Valtio state management store
+│ ├── App.jsx # Main React App
+│ ├── index.js # Entry point
+│ └── styles.css # TailwindCSS styles
+│
+├── package.json
+└── README.md # Project documentation (this file)
 
+## Acknowledgements
+-Three.js Documentation
+-React Official Docs
+-Valtio State Management
+-TailwindCSS
