@@ -1,12 +1,53 @@
-# React + Vite
+# Threejs_Project_V1 🎨🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly **Three.js** project showcasing interactive 3D rendering on the web. This project demonstrates custom models, dynamic materials, and real-time UI interactions using React and Three.js.
 
-Currently, two official plugins are available:
+> ⚠️ **Note:** File upload functionality is currently under development and **not yet implemented** in this version.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌍 [View Project Live]([https://your-live-demo-url.com](https://threejs-project-v1.onrender.com))
+
+---
+
+## 📸 Screenshot
+
+![Project Screenshot](https://your-screenshot-url.com/screenshot.png)
+
+---
+
+##  Features
+
+-  **3D Model Rendering** via Three.js
+-  Dynamic Material & Color Customization
+- ⚙ UI Tabs for Filters and Settings (React + Valtio State Management)
+-  Real-Time Object Manipulation
+-  Smooth Animations
+-  Modular and Clean Code Structure
+
+---
+
+## 🏗 Tech Stack
+
+| Technology  | Usage                    |
+|------------|-------------------------|
+| **React**  | Frontend UI Framework    |
+| **Three.js** | 3D Graphics & Rendering |
+| **Valtio** | Global State Management  |
+| **Tailwind CSS** | Styling             |
+
+---
+
+## 🚧 Planned Features
+
+- [ ] **File Upload Option** for custom 3D model imports.
+- [ ] Better lighting system.
+- [ ] Object export/download functionality.
+- [ ] UI polishing and performance optimization.
+
+---
+
+## 📂 Project Structure
+
