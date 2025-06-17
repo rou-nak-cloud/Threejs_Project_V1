@@ -2,21 +2,20 @@
 
 A beginner-friendly **Three.js** project showcasing interactive 3D rendering on the web. This project demonstrates custom models, dynamic materials, and real-time UI interactions using React and Three.js.
 
-> ⚠️ **Note:** File upload functionality is currently under development and **not yet implemented** in this version.
+>  **Note:** File upload functionality is currently under development and **not yet implemented** in this version.
 
 ---
 
 ## 🔗 Live Demo
 
-🌍 [View Project Live]([https://your-live-demo-url.com](https://threejs-project-v1.onrender.com))
+🌍 [Threejs_V1 Live]([https://your-live-demo-url.com](https://threejs-project-v1.onrender.com)
 
 ---
 
 ## 📸 Screenshot
 
-![Project Screenshot](https://your-screenshot-url.com/screenshot.png)
+--- ![Screenshot 2025-06-17 100210](https://github.com/user-attachments/assets/26f29001-adba-439a-adcc-5cf37dab0d6f)
 
----
 
 ##  Features
 
